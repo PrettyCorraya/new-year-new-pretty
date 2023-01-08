@@ -101,7 +101,7 @@ a {
 }
 .failure_item ul li img{
     width: 16px;
-    height: 12px;
+    height: 14px;
 }
 
 /* Failure part end */
@@ -182,8 +182,41 @@ a {
     margin-left: 64px;
     margin-top: 20px;
 }
-
 /* My plan part end */
+
+/* My team part start  */
+.team{
+    padding-top: 100px;
+}
+.my_team h3{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.member{
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.member_skills h3{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+.member_skills p{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+} 
+/* My team part end  */
 
 /* Footer Part Start  */
 .footer_part {
